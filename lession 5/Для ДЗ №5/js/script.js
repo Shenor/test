@@ -1,4 +1,4 @@
-let li_3 =  document.getElementsByTagName('li')[2],
+let li_3 = document.getElementsByTagName('li')[2],
     adv = document.querySelectorAll('.column'),
     delete_adv = document.querySelector('.adv'),
     title = document.getElementById('title'),
